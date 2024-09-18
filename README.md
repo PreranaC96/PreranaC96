@@ -5,6 +5,7 @@
 - 📫 How to reach me - Linkedin - https://www.linkedin.com/in/prerana-chakraborty-060a96131/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I played basketball in College and represented my district
+- 🖥️ https://preranac96.github.io/PreranaChakraborty.github.io/
 
 <!---
 PreranaC96/PreranaC96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
