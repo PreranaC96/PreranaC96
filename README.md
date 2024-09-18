@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and Data Analytics
 - 🌱 I’m currently learning Databricks
 - 💞️ I’m looking to collaborate on Data Platform Engineering
-- 📫 How to reach me - Linkedin - https://www.linkedin.com/in/prerana-chakraborty-060a96131/
+- 📫 How to reach me - Linkedin - https://www.linkedin.com/in/preranac17/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I played basketball in College and represented my district
 - 🖥️ https://preranac96.github.io/PreranaChakraborty.github.io/
