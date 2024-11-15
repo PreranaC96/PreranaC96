@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PreranaC96 - Prerana Chakraborty based in London, UK
 - 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning Databricks
+- 🌱 I’m currently learning Databricks, Achieved Certified Databricks Engineer Associate
 - 💞️ I’m looking to collaborate on Data Platform Engineering
 - 📫 How to reach me - Linkedin - https://www.linkedin.com/in/preranac17/
 - 😄 Pronouns: She/Her
